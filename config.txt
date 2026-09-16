@@ -1,0 +1,4 @@
+# CS 61B Lab 4 - shared config
+course=cs61b
+release_key=bee
+debug=false
